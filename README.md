@@ -27,3 +27,11 @@ convert(bin_path, bin_model, ckpt_path, ckpt_model)
 - **ckpt_model**: tf ckpt name
 
 **Notice**: this script only supports to convert the BERT model. If you need to convert other models, please modify the function `to_tf_var_name()` and variable `tensors_to_transpose`.
+
+## Converted Models (ckpt)
+
+- [SpanBERT](https://github.com/facebookresearch/SpanBERT)
+  - SpanBERT (base & cased): 12-layer, 768-hidden, 12-heads , 110M parameters
+  - SpanBERT (large & cased): 24-layer, 1024-hidden, 16-heads, 340M parameters
+
+  Download: [GoogleDrive](https://drive.google.com/drive/folders/1W8MT99_SvECIaJ2rSthwCraSvM5XkGwH?usp=sharing) | [BaiduDrive](https://pan.baidu.com/s/1-VMYZ7KKxoCveokwIu_27g) (Code: wtyr) | [CTDrive](http://file.xiaosheng.run/d/4096332-43294170-42b59d)
