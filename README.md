@@ -35,3 +35,9 @@ convert(bin_path, bin_model, ckpt_path, ckpt_model)
   - SpanBERT (large & cased): 24-layer, 1024-hidden, 16-heads, 340M parameters
 
   Download: [GoogleDrive](https://drive.google.com/drive/folders/1W8MT99_SvECIaJ2rSthwCraSvM5XkGwH?usp=sharing) | [BaiduDrive](https://pan.baidu.com/s/1-VMYZ7KKxoCveokwIu_27g) (Code: wtyr) | [CTDrive](http://file.xiaosheng.run/d/4096332-43294170-42b59d)
+
+- [SimCSE](https://github.com/princeton-nlp/SimCSE)
+  - supervised SimCSE (base & uncased)
+  - supervised SimCSE (large & uncased)
+
+  Download: [GoogleDrive](https://drive.google.com/drive/folders/1rDB259UIU2mIq52EfluSHdav1tPt2UQf?usp=sharing) | [BaiduDrive](https://pan.baidu.com/s/139lR2DzkkR35ds1ErrbqyA) (Code: gnq3) | [CTDrive](http://file.xiaosheng.run/d/4096332-43488940-1d8a39)
