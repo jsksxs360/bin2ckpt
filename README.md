@@ -2,7 +2,7 @@
 
 Convert Huggingface Pytorch checkpoint to Tensorflow checkpoint
 
-详细说明可以参见[《将 PyTorch 版 bin 模型转换成 Tensorflow 版 ckpt》](https://xiaosheng.run/2021/04/12/pytorch-model-to-tensorflow-ckpt.html)
+详细说明可以参见[《将 PyTorch 版 bin 模型转换成 Tensorflow 版 ckpt》](https://xiaosheng.blog/2021/04/12/pytorch-model-to-tensorflow-ckpt.html)
 
 ## Environment
 
